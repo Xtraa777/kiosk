@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        //테스트
+        //테스트. 변경
         Scanner sc          = new Scanner(System.in);
         Order   order       = new Order();
         double  totalAmount = 0;
